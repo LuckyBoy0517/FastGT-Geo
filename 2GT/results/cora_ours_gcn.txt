@@ -1,0 +1,60 @@
+label per class:20, valid:500,test:1000
+method: ours hidden: 64 ours_layers:1 lr:0.01 use_graph:True aggregate:add graph_weight:0.8 alpha:0.5 ours_decay:0.001 ours_dropout:0.2 epochs:500 use_feat_norm:False use_bn:False use_residual:False use_act:False
+backbone:gcn, layers:2 hidden: 64 lr:0.01 decay:0.0005 dropout:0.5
+5 runs: Highest Train: 100.00 ¡À 0.00 Highest val epoch:5
+Highest Test: 84.40 ¡À 0.64 Final Test: 83.70 ¡À 0.50
+
+label per class:20, valid:500,test:1000
+method: ours hidden: 64 ours_layers:1 lr:0.01 use_graph:True aggregate:add graph_weight:0.8 alpha:0.5 ours_decay:0.001 ours_dropout:0.2 epochs:500 use_feat_norm:False use_bn:False use_residual:False use_act:False
+backbone:gcn, layers:2 hidden: 64 lr:0.01 decay:0.0005 dropout:0.5
+5 runs: Highest Train: 100.00 ¡À 0.00 Highest val epoch:4
+Highest Test: 84.38 ¡À 0.41 Final Test: 84.14 ¡À 0.55
+
+label per class:20, valid:500,test:1000
+method: ours hidden: 64 ours_layers:1 lr:0.01 use_graph:True aggregate:add graph_weight:0.8 alpha:0.5 ours_decay:0.001 ours_dropout:0.2 epochs:500 use_feat_norm:False use_bn:False use_residual:False use_act:False
+backbone:gcn, layers:2 hidden: 64 lr:0.01 decay:0.0005 dropout:0.5
+5 runs: Highest Train: 100.00 ¡À 0.00 Highest val epoch:5
+Highest Test: 84.38 ¡À 0.61 Final Test: 83.62 ¡À 0.48
+
+label per class:20, valid:500,test:1000
+method: ours hidden: 64 ours_layers:1 lr:0.01 use_graph:True aggregate:add graph_weight:0.8 alpha:0.5 ours_decay:0.001 ours_dropout:0.2 epochs:500 use_feat_norm:False use_bn:False use_residual:False use_act:False
+backbone:gcn, layers:2 hidden: 64 lr:0.01 decay:0.0005 dropout:0.5
+5 runs: Highest Train: 100.00 ¡À 0.00 Highest val epoch:5
+Highest Test: 84.44 ¡À 0.60 Final Test: 84.04 ¡À 0.64
+
+label per class:20, valid:500,test:1000
+method: ours hidden: 64 ours_layers:1 lr:0.01 use_graph:True aggregate:add graph_weight:0.8 alpha:0.5 ours_decay:0.001 ours_dropout:0.2 epochs:500 use_feat_norm:False use_bn:False use_residual:False use_act:False
+backbone:gcn, layers:2 hidden: 64 lr:0.01 decay:0.0005 dropout:0.5
+5 runs: Highest Train: 100.00 ¡À 0.00 Highest val epoch:5
+Highest Test: 84.44 ¡À 0.58 Final Test: 84.02 ¡À 0.69
+
+label per class:20, valid:500,test:1000
+method: ours hidden: 64 ours_layers:1 lr:0.01 use_graph:True aggregate:add graph_weight:0.8 alpha:0.5 ours_decay:0.001 ours_dropout:0.2 epochs:500 use_feat_norm:False use_bn:False use_residual:False use_act:False
+backbone:gcn, layers:2 hidden: 64 lr:0.01 decay:0.0005 dropout:0.5
+5 runs: Highest Train: 100.00 ¡À 0.00 Highest val epoch:154
+Highest Test: 84.28 ¡À 0.43 Final Test: 83.54 ¡À 0.96
+
+label per class:20, valid:500,test:1000
+method: ours hidden: 64 ours_layers:1 lr:0.01 use_graph:True aggregate:add graph_weight:0.8 alpha:0.5 ours_decay:0.001 ours_dropout:0.2 epochs:500 use_feat_norm:False use_bn:False use_residual:False use_act:False
+backbone:gcn, layers:2 hidden: 64 lr:0.01 decay:0.0005 dropout:0.5
+5 runs: Highest Train: 100.00 ¡À 0.00 Highest val epoch:5
+Highest Test: 84.24 ¡À 0.47 Final Test: 83.92 ¡À 0.52
+
+label per class:20, valid:500,test:1000
+method: ours hidden: 64 ours_layers:1 lr:0.01 use_graph:True aggregate:add graph_weight:0.8 alpha:0.5 ours_decay:0.001 ours_dropout:0.2 epochs:500 use_feat_norm:False use_bn:False use_residual:False use_act:False
+backbone:gcn, layers:2 hidden: 64 lr:0.01 decay:0.0005 dropout:0.5
+5 runs: Highest Train: 100.00 ¡À 0.00 Highest val epoch:5
+Highest Test: 84.30 ¡À 0.69 Final Test: 83.86 ¡À 0.44
+
+label per class:20, valid:500,test:1000
+method: ours hidden: 64 ours_layers:1 lr:0.01 use_graph:True aggregate:add graph_weight:0.8 alpha:0.5 ours_decay:0.001 ours_dropout:0.2 epochs:500 use_feat_norm:False use_bn:False use_residual:False use_act:False
+backbone:gcn, layers:2 hidden: 64 lr:0.01 decay:0.0005 dropout:0.5
+5 runs: Highest Train: 100.00 ¡À 0.00 Highest val epoch:5
+Highest Test: 84.10 ¡À 0.33 Final Test: 83.84 ¡À 0.55
+
+label per class:20, valid:500,test:1000
+method: ours hidden: 64 ours_layers:1 lr:0.01 use_graph:True aggregate:add graph_weight:0.8 alpha:0.5 ours_decay:0.001 ours_dropout:0.2 epochs:500 use_feat_norm:False use_bn:False use_residual:False use_act:False
+backbone:gcn, layers:2 hidden: 64 lr:0.01 decay:0.0005 dropout:0.5
+5 runs: Highest Train: 100.00 ¡À 0.00 Highest val epoch:6
+Highest Test: 84.28 ¡À 0.48 Final Test: 83.98 ¡À 0.66
+
